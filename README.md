@@ -1,2 +1,2 @@
 # trial
-mkamkfknaksmn
+learning about git and github
